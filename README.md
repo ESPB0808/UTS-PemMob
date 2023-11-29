@@ -8,29 +8,29 @@ git clone https://github.com/ESPB0808/UTS-PemMob.git
 ```
 # Requirement
 ```
-npx install @react-native-community/masked-view
+npm install @react-native-community/masked-view
 ```
 ```
-npx install @react-navigation/native
+npm install @react-navigation/native
 ```
 ```
-npx install @react-navigation/native-stack
+npm install @react-navigation/native-stack
 ```
 ```
-npx install react-native-animatable
+npm install react-native-animatable
 ```
 ```
-npx install react-native-gesture-handler
+npm install react-native-gesture-handler
 ```
 ```
-npx install react-native-safe-area-context
+npm install react-native-safe-area-context
 ```
 ```
-npx install react-native-screens
+npm install react-native-screens
 ```
 ```
-npx install nativewind
+npm install nativewind
 ```
 ```
-npx install tailwindcss@3.3.2
+npm install tailwindcss@3.3.2
 ```
